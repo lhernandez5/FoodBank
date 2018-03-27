@@ -1,1 +1,2 @@
-# FoodBank
+# Food_Bank_Application
+This is a simple application for a community food pantry. The application uses the scanner console and the code is written in java. The application allows for a volunteer, donor, and employee to log in and perform some basic tasks. 
